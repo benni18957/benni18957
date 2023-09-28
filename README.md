@@ -1,1 +1,1 @@
-<img src="benni18957_grey_pulse.gif"/>
+<img src="benni18957_grey2.gif"/>
